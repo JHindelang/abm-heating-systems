@@ -1,6 +1,11 @@
 # Agent-based heating system diffusion model
 Agent based model of energy transition in the residential sector
 
+## Requirements
+Python 3.6
+
+Packages and dependencies can be installed using pip from requirements.txt
+
 ## Description of scripts
 
 Model Scripts: <ol>
