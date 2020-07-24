@@ -4,7 +4,7 @@ Agent based model of energy transition in the residential sector
 ## Requirements
 Python 3.6
 
-Packages and dependencies can be installed using pip from requirements.txt
+Packages and dependencies can be installed from requirements.txt using pip. 
 
 ## Description of scripts
 
