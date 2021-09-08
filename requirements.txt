@@ -47,7 +47,7 @@ munch==2.5.0
 networkx==2.4
 numpy==1.18.1
 pandas==1.0.3
-Pillow==7.1.1
+Pillow==8.3.2
 plotly==4.5.4
 poyo==0.5.0
 pyparsing==2.4.7
