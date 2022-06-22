@@ -45,7 +45,7 @@ mkl-random==1.1.0
 mkl-service==2.3.0
 munch==2.5.0
 networkx==2.4
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.3
 Pillow==7.1.1
 plotly==4.5.4
